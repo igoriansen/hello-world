@@ -2,5 +2,3 @@
   yo, that's my first hello world on github lol.
   
   Hello, I'm Igor Miguel, 11 years old, a student of software development for multi-platform systems on Fatec Jacareí Professor Francisco Moura at São Paulo, I hope I can get better on this and study a lot stuffs & also improve myself everyday.
-
-Hello, i'm Beatriz, 18 years old, a student too, fatec, bla bla, you know the rest.
